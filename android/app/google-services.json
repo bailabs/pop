@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "380908025961",
+    "firebase_url": "https://popular-3e81e.firebaseio.com",
+    "project_id": "popular-3e81e",
+    "storage_bucket": "popular-3e81e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380908025961:android:f6bcce95f341624f",
+        "android_client_info": {
+          "package_name": "ph.bai.pop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380908025961-1bof4tmauj1k2rqjgk02imbd4d5p8ikq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ph.bai.pop",
+            "certificate_hash": "bafa173da3e2f2e4fe2bf8779bf25d55f4f6c3d0"
+          }
+        },
+        {
+          "client_id": "380908025961-ssudj2jof55tpgqnh9d33mvi8o1kihbp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ph.bai.pop",
+            "certificate_hash": "0e4e2009ba9e72eb6083a069034aae1514d625bc"
+          }
+        },
+        {
+          "client_id": "380908025961-oo1o2homgsdcsjqfh47efkm47492jlcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIeV2oaTm6ELwd0_FSv6djW7VPcxullx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380908025961-oo1o2homgsdcsjqfh47efkm47492jlcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
